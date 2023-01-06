@@ -10,7 +10,7 @@
   top: 0px;
   background-image: url(../images/donation13.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
 .help{
     margin-bottom: 150px;
